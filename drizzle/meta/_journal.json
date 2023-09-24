@@ -1,0 +1,55 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1695547778835,
+      "tag": "0000_eager_doctor_doom",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1695552253567,
+      "tag": "0001_grey_smiling_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1695572039384,
+      "tag": "0002_red_bill_hollister",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1695572469469,
+      "tag": "0003_quick_thunderbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1695572726014,
+      "tag": "0004_clever_jigsaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1695573136818,
+      "tag": "0005_normal_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1695573733234,
+      "tag": "0006_foamy_terrax",
+      "breakpoints": true
+    }
+  ]
+}

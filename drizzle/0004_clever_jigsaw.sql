@@ -1,0 +1,1 @@
+ALTER TABLE "dates" ALTER COLUMN "time_start_voting" SET DATA TYPE time;
